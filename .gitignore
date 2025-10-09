@@ -76,3 +76,6 @@ debian/files
 *.debhelper.log
 
 .venv/
+
+homework01/tiny-imagenet-200/
+homework01/tiny-imagenet-200.zip
