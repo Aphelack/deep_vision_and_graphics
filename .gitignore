@@ -79,3 +79,5 @@ debian/files
 
 homework01/tiny-imagenet-200/
 homework01/tiny-imagenet-200.zip
+
+homework02/cifar_data/
