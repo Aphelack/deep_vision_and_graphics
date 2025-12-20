@@ -91,3 +91,7 @@ homework03/real.npz
 **/celeba*
 
 homework04/datasets/
+
+homework05/kitti_stereo_2012_training_data.zip
+homework05/kitti_stereo_2012_training_data/
+homework05/kitti_stereo_2015/
