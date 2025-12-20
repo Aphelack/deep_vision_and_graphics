@@ -95,3 +95,9 @@ homework04/datasets/
 homework05/kitti_stereo_2012_training_data.zip
 homework05/kitti_stereo_2012_training_data/
 homework05/kitti_stereo_2015/
+
+**/*.tar.gz
+**/*.zip
+
+homework05/nerf_llff_data
+homework05/nerf_synthetic
